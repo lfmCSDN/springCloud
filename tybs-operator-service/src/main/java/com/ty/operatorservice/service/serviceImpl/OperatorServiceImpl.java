@@ -290,3 +290,5 @@ public class OperatorServiceImpl implements OperatorService {
         return userBaseInfoMapper.getAcct(userBaseInfoQo);
     }
 }
+
+
