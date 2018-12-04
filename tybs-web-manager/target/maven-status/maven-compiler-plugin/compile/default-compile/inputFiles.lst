@@ -1,8 +1,0 @@
-D:\sunyardproject\trunk\tybs-web-manager\src\main\java\com\ty\tybs\web\controller\OperatorController.java
-D:\sunyardproject\trunk\tybs-web-manager\src\main\java\com\ty\tybs\web\controller\AcctController.java
-D:\sunyardproject\trunk\tybs-web-manager\src\main\java\com\ty\tybs\web\controller\AdminController.java
-D:\sunyardproject\trunk\tybs-web-manager\src\main\java\com\ty\tybs\web\feignclient\AcctFeign.java
-D:\sunyardproject\trunk\tybs-web-manager\src\main\java\com\ty\tybs\web\feignclient\AdminFeign.java
-D:\sunyardproject\trunk\tybs-web-manager\src\main\java\com\ty\tybs\web\feignclient\OperatorFeign.java
-D:\sunyardproject\trunk\tybs-web-manager\src\main\java\com\ty\tybs\web\controller\IndexController.java
-D:\sunyardproject\trunk\tybs-web-manager\src\main\java\com\ty\tybs\TybsApplication.java

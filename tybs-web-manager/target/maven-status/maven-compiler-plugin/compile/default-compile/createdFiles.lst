@@ -1,8 +1,0 @@
-com\ty\tybs\web\feignclient\OperatorFeign.class
-com\ty\tybs\web\controller\IndexController.class
-com\ty\tybs\web\controller\AcctController.class
-com\ty\tybs\web\feignclient\AdminFeign.class
-com\ty\tybs\web\controller\OperatorController.class
-com\ty\tybs\web\controller\AdminController.class
-com\ty\tybs\web\feignclient\AcctFeign.class
-com\ty\tybs\TybsApplication.class

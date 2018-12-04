@@ -1,5 +1,0 @@
-com\ty\adminservice\service\AdminService.class
-com\ty\adminservice\mapper\AdminMapper.class
-com\ty\adminservice\feignImpl\AdminFeignImpl.class
-com\ty\adminservice\AdminServiceApplication.class
-com\ty\adminservice\service\impl\AdminServiceImpl.class
